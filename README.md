@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">These are my projects</h3>
-👉 <a href="https://github.com/Nick-Bae/AirBnB_back_front.git" >namju-airbnb</a>
-👉 <a href="https://github.com/aselk1/Medio.git" >medio</a>
-👉 <a href="https://github.com/Nick-Bae/bae.git" >bae</a>
+👉 <a href="https://github.com/Nick-Bae/AirBnB_back_front.git" >namju-airbnb(Airbnb Clone)</a><br>
+👉 <a href="https://github.com/aselk1/Medio.git" >medio(Medium Cone</a></br>
+👉 <a href="https://github.com/Nick-Bae/bae.git" >bae(ecommerce site)</a>
 
   
 </p>
