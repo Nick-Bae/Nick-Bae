@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Namju Bae</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/namju bae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namju bae" height="30" width="40" /></a>
+<h3 align="left">These are my projects</h3>
+👉 <a href="https://github.com/Nick-Bae/AirBnB_back_front.git" >namju-airbnb</a>
+👉 <a href="https://github.com/aselk1/Medio.git" >medio</a>
+👉 <a href="https://github.com/Nick-Bae/bae.git" >bae</a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
